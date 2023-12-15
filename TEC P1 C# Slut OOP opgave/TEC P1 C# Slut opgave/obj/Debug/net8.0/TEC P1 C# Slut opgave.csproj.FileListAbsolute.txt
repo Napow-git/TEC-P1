@@ -1,0 +1,14 @@
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\bin\Debug\net8.0\TEC P1 C# Slut opgave.exe
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\bin\Debug\net8.0\TEC P1 C# Slut opgave.deps.json
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\bin\Debug\net8.0\TEC P1 C# Slut opgave.runtimeconfig.json
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\bin\Debug\net8.0\TEC P1 C# Slut opgave.dll
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\bin\Debug\net8.0\TEC P1 C# Slut opgave.pdb
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.AssemblyInfoInputs.cache
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.AssemblyInfo.cs
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.csproj.CoreCompileInputs.cache
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.dll
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\refint\TEC P1 C# Slut opgave.dll
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.pdb
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\TEC P1 C# Slut opgave.genruntimeconfig.cache
+C:\Users\napow\Documents\TEC Hovedmappe\TEC hovedforløb\TEC P2 Grunlæggene Programering\TEC P1 C# Slut opgave\TEC P1 C# Slut opgave\obj\Debug\net8.0\ref\TEC P1 C# Slut opgave.dll
