@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7r8WmBal4/2izko3l7ZCSRVsMKEwFQuUVSgnvMEES/iyjrPbiS2C1lVFuCt9L+LoPBU2VGZiCG/GjMIT+2WCoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\napow\\Documents\\TEC Hovedmappe\\TEC hovedforløb\\TEC P2 Grunlæggene Programering\\TEC P1 C# Slut opgave\\TEC P1 C# Slut opgave\\TEC P1 C# Slut opgave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\napow\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\napow\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\napow\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
