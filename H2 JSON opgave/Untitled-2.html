@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <style>
+        div{
+            background: linear-gradient(to right, purple, white, yellow);
+            padding: 20px;
+            border-radius: 20px;
+            box-shadow: 0 0 5px black;
+            text-align: center;
+            margin: 150px;
+
+        }
+        
+    </style>
+</head>
+<body>
+    <div>
+
+        <h2>
+            Enter your name
+        </h2>
+        <input type="text" id="inputvalue">
+        <button onclick="redirectToPage2()">Click</button> 
+
+    </div>
+    <script>
+        function redirectToPage2() {
+            const valueToPass=
+            document.getElementById("inputvalue").value;
+            const url="Quiz.htm?variable=${encodeURIComponent(valueToPass)}";
+            window.location.href=url;
+        }
+    </script>
+        
+</body>
+</html>
