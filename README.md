@@ -10,13 +10,7 @@ gantt
 
     axisFormat %d/%m
 
- 
 
-    section Kodning
-
-    Json: 05-02-2024, 14d
-
-    Spil Design : 05-02-2024, 21d
 
     section Json
 
