@@ -7,11 +7,11 @@ gantt
 
         section Uge 6
     
-        JSON : 2023-01-08, 14d
+        JSON : 05-02-2024, 14d
     
-        C# : 2023-01-08, 14d
+        C# : 05-02-2024, 14d
     
-        Spil desgin : 2023-01-22, 21d
+        Spil desgin :05-02-2024, 14d
     
 
     Ongoing Support : 2023-05-07, 30d
