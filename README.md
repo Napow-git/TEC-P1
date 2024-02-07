@@ -8,22 +8,22 @@ gantt
 
     dateFormat DD-MM-YYYY
 
-    axisFormat %m/%d
+    axisFormat %d/%m
 
  
 
-    section Uge 6
+    section Kodning
 
-    JSON : 05-02-2024, 14d
+    Json: 05-02-2024, 14d
 
-    C#: 05-02-2024, 14d
+    Research : 05-02-2024, 14d
 
-    Spil Design: 05-02-2024, 21d
-
-    section Uge 7
-
-    Ansøgning/Elevplads: 13-02-2024, 3d
+    Define Requirements : 05-02-2024, 21d
 
  
+
+    section Ansøgning
+
+    Elevplads : 12-02-2024, 1d
 
 ```
