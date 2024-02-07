@@ -14,7 +14,7 @@ gantt
 
     section Json
 
-    Theori/Undersøgelse: 07-02-2024, 5d
+    Theori/Undersøgelse: 07-02-2024, 3d
 
     brainstorming: 10-02-2024, 2d
 
@@ -26,22 +26,24 @@ gantt
 
     section C-Sharp
 
-    Theori/Undersøgelse: 07-02-2024, 5d
+    Theori/Undersøgelse: 07-02-2024, 3d
+
+    brainstorming: 10-02-2024, 2d
 
     testing: 12-02-2024, 5d
-
-    brainstorming: 14-02-2024, 2d
 
     Implimentation: 19-02-2024, 5d
 
 
     section Spil Design
 
-    Theori/Undersøgelse: 07-02-2024, 5d
+    Theori/Undersøgelse: 07-02-2024, 3d
 
     Mechanics: 12-02-2024, 5d
 
     testing: 19-02-2024, 5d
+
+    brainstorming: 24-02-2024, 2d
 
     implimentation: 26-02-2024, 3d
 
