@@ -16,14 +16,14 @@ gantt
 
     Json: 05-02-2024, 14d
 
-    Research : 05-02-2024, 14d
+    C-Sharp : 05-02-2024, 14d
 
-    Define Requirements : 05-02-2024, 21d
+    Spil Design : 05-02-2024, 21d
 
  
 
-    section Ansøgning
+    section Elevplads
 
-    Elevplads : 12-02-2024, 1d
+    Ansøgning : 12-02-2024, 2d
 
 ```
