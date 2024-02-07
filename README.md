@@ -8,17 +8,19 @@ gantt
 
     dateFormat DD-MM-YYYY
 
-    axisFormat %m/%d
+    axisFormat /%d%m
 
  
 
     section Uge 6
 
-    Define Project : 05-02-2024, 14d
+    JSON : 05-02-2024, 14d
 
-    Research : 05-02-2024, 14d
+    C#: 05-02-2024, 14d
 
-    Define Requirements : 05-02-2024, 21d
+    Spil Design: 05-02-2024, 21d
+
+    Ansøgning/Elevplads: 13-02-2024, 3d
 
  
 
