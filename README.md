@@ -1,4 +1,4 @@
-### Gant diagram
+### Napow Gant diagram
 
 ```mermaid
 
