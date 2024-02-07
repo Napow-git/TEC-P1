@@ -24,6 +24,6 @@ gantt
 
     section Elevplads
 
-    Ansøgning : 12-02-2024, 2d
+    Ansøgning : 07-02-2024, 2d
 
 ```
