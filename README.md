@@ -8,7 +8,7 @@ gantt
 
     dateFormat DD-MM-YYYY
 
-    axisFormat /%d%m
+    axisFormat %m/%d
 
  
 
