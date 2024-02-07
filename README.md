@@ -20,6 +20,8 @@ gantt
 
     Spil Design: 05-02-2024, 21d
 
+    section Uge 7
+
     Ansøgning/Elevplads: 13-02-2024, 3d
 
  
