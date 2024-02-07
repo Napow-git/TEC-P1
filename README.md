@@ -6,13 +6,13 @@ gantt
 
     title Project Schedule
 
-    dateFormat YYYY-MM-DD
+    dateFormat DD-MM-YYYY
 
     axisFormat %m/%d
 
  
 
-    section Planning
+    section Uge 6
 
     Define Project : 2023-01-01, 7d
 
