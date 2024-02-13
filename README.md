@@ -16,9 +16,9 @@ gantt
 
     Theori/Undersøgelse: 07-02-2024, 3d
 
-    brainstorming: 10-02-2024, 2d
-
     testing: 12-02-2024, 5d
+
+    brainstorming: 17-02-2024, 2d
 
     Implimentation: 19-02-2024, 5d
 
@@ -28,9 +28,9 @@ gantt
 
     Theori/Undersøgelse: 07-02-2024, 3d
 
-    brainstorming: 10-02-2024, 2d
-
     testing: 12-02-2024, 5d
+
+    brainstorming: 17-02-2024, 2d
 
     Implimentation: 19-02-2024, 5d
 
