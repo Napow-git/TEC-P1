@@ -4,7 +4,7 @@
 
 gantt
 
-    title Project Schedule
+    title Project Schedule Marts
 
     dateFormat DD-MM-YYYY
 
@@ -12,44 +12,35 @@ gantt
 
 
 
-    section Json
+    section Spil udvikling
 
-    Theori/Undersøgelse: 07-02-2024, 3d
+    W3 school: 11-03-2024, 20d
 
-    testing: 12-02-2024, 5d
+    testing: 26-03-2024, 5d
 
-    brainstorming: 17-02-2024, 2d
+    brainstorming: 17-03-2024, 2d
 
-    Implimentation: 19-02-2024, 5d
+    Implimentation: 19-03-2024, 5d
 
     
 
     section C-Sharp
 
-    Theori/Undersøgelse: 07-02-2024, 3d
+    testing: 15-03-2024, 5d
 
-    testing: 12-02-2024, 5d
-
-    brainstorming: 17-02-2024, 2d
-
-    Implimentation: 19-02-2024, 5d
+    brainstorming: 25-03-2024, 2d
 
 
     section Spil Design
 
-    Theori/Undersøgelse: 07-02-2024, 3d
+    testing: 15-03-2024, 5d
 
-    Mechanics: 12-02-2024, 5d
+    brainstorming: 25-03-2024, 2d
 
-    testing: 19-02-2024, 5d
-
-    brainstorming: 24-02-2024, 2d
-
-    implimentation: 26-02-2024, 3d
 
     section Elevplads
 
-    Ansøgning : 07-02-2024, 2d
+    Ansøgning : 12-03-2024, 2d
 
 ```
 
