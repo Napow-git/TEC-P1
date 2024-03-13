@@ -4,7 +4,7 @@
 
 gantt
 
-    title Project Schedule Marts
+    title Project Schedule Spil udvikling Marts 
 
     dateFormat DD-MM-YYYY
 
@@ -12,15 +12,11 @@ gantt
 
 
 
-    section Spil udvikling
+    section W3 School
 
-    W3 school: 11-03-2024, 20d
+    DSA(Data Structure Agorithm): 11-03-2024, 7d
 
-    testing: 26-03-2024, 5d
-
-    brainstorming: 17-03-2024, 2d
-
-    Implimentation: 19-03-2024, 5d
+    Python: 18-03-2024, 7d
 
     
 
